@@ -3,21 +3,13 @@
   <img src="https://img.shields.io/github/stars/GovindSingh9447?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜"> •
 </p>
 
-
-
-
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Engineer;Computer+Science+Student;Competitive+Programmer;Always+learning+new+things"></a>
 </p>
 
 
-
 <!-- TROFEOS GITHUB -->
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ra-1102&theme=dracula&column=7" alt="ra-1102" /></a> </p>
-
-
-
-
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
@@ -25,7 +17,7 @@
 
 <br><br>
 
-- :school: Soy`estudiante` at [Facultad de Medicina] de la [UNAM].
+- :school: Soy`estudiante` at [Facultad de Medicina] de la [UNAM].🌮
 - `estudiante` de [Desarrollo Web & Cloud] en [Mujer digital].
 - :technologist: Me encanta usar el software como solución para cada `problema`.
 <br>
@@ -56,24 +48,17 @@
 <br><br><br><br>
 
 <picture> <img align="right" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" width = 400px></picture>
-
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ra-1102&theme=dracula&hide_border=false)<br/>
 
-<br><br>
 
-  <a href="https://github.com/ra-1102/curso-java-md-24">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ra-1102&repo=curso-java-md-24&theme=great-gatsby" />
+<br><br>
+### ⌛ My Repositories
+<a href="https://github.com/ra-1102/curso-java-md-24">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ra-1102&repo=curso-java-md-24&bg_color=000000&title_color=c792ea&text_color=ffffff&icon_color=c792ea&border_color=000000" />
 </a>
 <a href="https://github.com/ra-1102/ralulu.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ra-1102&repo=ralulu.github.io&theme=great-gatsby" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ra-1102&repo=ralulu.github.io&bg_color=000000&title_color=c792ea&text_color=ffffff&icon_color=c792ea&border_color=000000" />
 </a>
-
-
-
-
-
-
-
 
 ### ⚙️ &nbsp;GitHub Analytics
 
@@ -83,10 +68,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ra-1102&layout=compact&theme=radical&bg_color=0A0A0A" alt="Lourdes Robles Top Languages"/>
 </a>
 
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ra-1102&bg_color=000000&color=ff69b4&line=c792ea&point=f06292&area=true&hide_border=false" style="border-radius: 15px;">
-
-
 </p>
 
 <br/>
@@ -99,8 +81,7 @@
 	<a href="https://linkedin.com/in/candida-ruth-noronha-b019101ab"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
 	<a href="https://www.facebook.com/candida.noronha.77"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
 	<a href="https://instagram.com/candyyyy__18"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
-	<a href="https://www.youtube.com/channel/UC7V1Gm8V0kRLp_EHB8aDj2A"><img src="https://img.icons8.com/bubbles/50/000000/youtube.png" alt="Youtube"/></a>
-	
+	<a href="https://www.youtube.com/channel/UC7V1Gm8V0kRLp_EHB8aDj2A"><img src="https://img.icons8.com/bubbles/50/000000/youtube.png" alt="Youtube"/></a>	
 </p>
 
 
