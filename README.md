@@ -1,7 +1,19 @@
 <h1 align="center">Hola 👋, soy Lourdes Robles</h1>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=ra-1102&label=Profile%20views&color=0e75b6&style=flat" alt="ra-1102" /> </p>
+
+
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Engineer;Computer+Science+Student;Competitive+Programmer;Always+learning+new+things"></a>
 </p>
+
+
+
+<!-- TROFEOS GITHUB -->
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ra-1102&theme=dracula&column=7" alt="ra-1102" /></a> </p>
+
+
+
+
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
