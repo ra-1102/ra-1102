@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, soy Lourdes Robles</h1>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=ra-1102&label=Profile%20views&color=0e75b6&style=flat" alt="ra-1102" /><img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/GovindSingh9447?label=Followers&style=social"> •
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=ra-1102&color=blueviolet" alt="Profile views"/><img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/GovindSingh9447?label=Followers&style=social"> •
   <img src="https://img.shields.io/github/stars/GovindSingh9447?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜"> •
 </p>
 
@@ -60,6 +60,20 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ra-1102&theme=dracula&hide_border=false)<br/>
 
 <br><br>
+
+  <a href="https://github.com/ra-1102/curso-java-md-24">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ra-1102&repo=curso-java-md-24&theme=great-gatsby" />
+</a>
+<a href="https://github.com/ra-1102/ralulu.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ra-1102&repo=ralulu.github.io&theme=great-gatsby" />
+</a>
+
+
+
+
+
+
+
 
 ### ⚙️ &nbsp;GitHub Analytics
 
