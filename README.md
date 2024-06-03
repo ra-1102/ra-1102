@@ -1,5 +1,9 @@
 <h1 align="center">Hola 👋, soy Lourdes Robles</h1>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=ra-1102&label=Profile%20views&color=0e75b6&style=flat" alt="ra-1102" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=ra-1102&label=Profile%20views&color=0e75b6&style=flat" alt="ra-1102" /><img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/GovindSingh9447?label=Followers&style=social"> •
+  <img src="https://img.shields.io/github/stars/GovindSingh9447?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜"> •
+</p>
+
+
 
 
 <p align="center">
@@ -66,8 +70,26 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ra-1102&include_all_commits=true&count_private=true&show_icons=true&line_height=30&title_color=CDB4DB&icon_color=CDB4DB&text_color=D3D3D3&bg_color=0A0A0A" alt="LourdeRobles Github Stats">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ra-1102&layout=compact&theme=radical&bg_color=0A0A0A" alt="Lourdes Robles Top Languages"/>
 </a>
+
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ra-1102&bg_color=000000&color=ff69b4&line=c792ea&point=f06292&area=true&hide_border=false" style="border-radius: 15px;">
+
+
 </p>
 
+<br/>
+
+## 🙋‍♀️ Let's Connect
+<p align="center">
+  <a href="https://candida-noronha.web.app/"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a>
+	<a href="mailto:candida.noronha18@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
+	<a href="https://github.com/Candida18"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
+	<a href="https://linkedin.com/in/candida-ruth-noronha-b019101ab"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+	<a href="https://www.facebook.com/candida.noronha.77"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
+	<a href="https://instagram.com/candyyyy__18"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
+	<a href="https://www.youtube.com/channel/UC7V1Gm8V0kRLp_EHB8aDj2A"><img src="https://img.icons8.com/bubbles/50/000000/youtube.png" alt="Youtube"/></a>
+	
+</p>
 
 
 
