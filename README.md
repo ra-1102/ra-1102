@@ -33,17 +33,9 @@
 <hr width="100%">
 
 ### My GitHub Stats
-<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif">
 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ra-1102&show_icons=true&theme=radical&locale=en&layout=compact" alt="ra-1102"></p>
-
-
-
-
-
-<br><br><br><br><br><br><br><br><br><br><br><br>
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/> 
+
 ### 🛠 &nbsp;Tech Stack
 <p align="left">
   <img src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python" />&nbsp;
