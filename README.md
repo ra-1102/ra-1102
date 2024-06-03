@@ -61,7 +61,13 @@
   <img src="https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255" />&nbsp;
   
 </p>
-<br><br><br>
+<br><br><br><br>
+
+<picture> <img align="right" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" width = 400px></picture>
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=ra-1102&theme=dracula&hide_border=false)<br/>
+
+<br><br>
 
 ### ⚙️ &nbsp;GitHub Analytics
 
